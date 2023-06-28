@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medartn7&label=Profile%20views&color=0e75b6&style=flat" alt="medartn7" /> </p>
 
 <div style="display:flex">
-<img align="right" alt="coding_img" width="380" src="https://github.com/MedartN7/MedartN7/blob/main/coding.gif"> </p>
+<img align="right" alt="coding_img" width="350" src="https://github.com/MedartN7/MedartN7/blob/main/coding.gif"> </p>
 
 - 🔭 I’m currently working on **Portal intermediary in courier services.**
 
