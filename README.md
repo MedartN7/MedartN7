@@ -1,6 +1,7 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 <h1 align="center">Hi 👋, I'm Bartłomiej Walecki.</h1>
 <h3 align="center">Entry level developer looking for opportunity to work in the field.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=medartn7&label=Profile%20views&color=0e75b6&style=flat" alt="medartn7" /> </p>
 
 <div style="display:flex">
 <img align="right" alt="coding_img" width="380" src="https://github.com/MedartN7/MedartN7/blob/main/coding.gif"> </p>
