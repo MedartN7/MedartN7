@@ -1,7 +1,10 @@
+![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 <h1 align="center">Hi 👋, I'm Bartłomiej Walecki</h1>
 <h3 align="center">Entry level developer looking for opportunity to work in the field.</h3>
+<img align= alt="Coding" width="400" src="https://github.com/MedartN7/MedartN7/blob/main/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medartn7&label=Profile%20views&color=0e75b6&style=flat" alt="medartn7" /> </p>
+<div style="display:flex">
+<img align="right" alt="coding_img" width="380" src="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://github.com/MedartN7/MedartN7/blob/main/coding.gif)"> </p>
 
 - 🔭 I’m currently working on **Portal intermediary in courier services.**
 
@@ -10,6 +13,7 @@
 - 📫 How to reach me **medart87@gmail.com**
 
 - ⚡ Fun fact **It's NEVER too late to find your true passion, trust me on that one:)**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
