@@ -1,4 +1,4 @@
-![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
+![technology-programming-wallpaper-1123x542_68](https://github.com/MedartN7/MedartN7/blob/main/SD%26P.png)
 <h1 align="center">Hi 👋, I'm Bartłomiej Walecki.</h1>
 <h3 align="center">Entry level developer looking for opportunity to work in the field.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medartn7&label=Profile%20views&color=0e75b6&style=flat" alt="medartn7" /> </p>
