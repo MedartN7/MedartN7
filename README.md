@@ -39,3 +39,11 @@
 <h2 align="center">GitHub Stats:</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=medartn7&show_icons=true&theme=transparent)
+
+
+![](https://raw.githubusercontent.com/medartn7/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/medartn7/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
+![](https://raw.githubusercontent.com/medartn7/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/medartn7/github-stats/master/generated/languages.svg#gh-light-mode-only)
