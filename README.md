@@ -9,13 +9,13 @@
 <div style="display:flex">
 <img align="right" alt="coding_img" width="315" src="https://github.com/MedartN7/MedartN7/blob/main/coding.gif"> </p>
 
-- 🔭 I’m currently working on **Portal intermediary in courier services.**
+- 🔭 I’m currently working on: **Portal intermediary in courier services.**
 
-- 🌱 I’m currently learning **Python, PHP, SQL, JavaScript**
+- 🌱 I’m currently learning: **Python, PHP, SQL, JavaScript**
 
-- 📫 How to reach me **medart87@gmail.com**
+- 📫 How to reach me: **medart87@gmail.com**
 
-- ⚡ Fun fact **It's NEVER too late to find your true passion, trust me on that one:)**
+- ⚡ Fun fact:  **It's NEVER too late to find your true passion, trust me on that one!**
 </div>
 
 <h3 align="left">Connect with me:</h3>
