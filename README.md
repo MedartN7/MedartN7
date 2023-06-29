@@ -1,7 +1,10 @@
 ![technology-programming-wallpaper-1123x542_68](https://github.com/MedartN7/MedartN7/blob/main/SD%26P.png)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/medartn7/count.svg" />
+</p>
 <h1 align="center">Hi 👋, I'm Bartłomiej Walecki.</h1>
 <h3 align="center">Entry level developer looking for opportunity to work in the field.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medartn7&label=Profile%20views&color=0e75b6&style=flat" alt="medartn7" /> </p>
 
 <div style="display:flex">
 <img align="right" alt="coding_img" width="315" src="https://github.com/MedartN7/MedartN7/blob/main/coding.gif"> </p>
@@ -37,4 +40,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medartn7&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="medartn7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medartn7&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="medartn7" /></p>
-
