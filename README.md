@@ -7,7 +7,7 @@
 <h3 align="center">Entry level developer looking for opportunity to work in the field.</h3>
 
 <div style="display:flex">
-<img align="right" alt="coding_img" width="315" src="https://github.com/MedartN7/MedartN7/blob/main/coding.gif"> </p>
+<img align="right" alt="coding_img" width="315" autoplay loop src="https://github.com/MedartN7/MedartN7/blob/main/coding.gif"> </p>
 
 - 🔭 I’m currently working on: **Portal intermediary in courier services.**
 
