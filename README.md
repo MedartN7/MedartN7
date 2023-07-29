@@ -1,4 +1,4 @@
-![technology-programming-wallpaper-1123x542_68](https://github.com/MedartN7/MedartN7/blob/main/SD%26P.png)
+<img align="center" alt="dev_img" width="1000" src="https://github.com/MedartN7/MedartN7/blob/main/SD%26P.png">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/medartn7/count.svg" />
