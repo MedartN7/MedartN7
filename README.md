@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on: **Portal intermediary in courier services.**
 
-- 🌱 I’m currently learning: **Python, PHP, SQL, JavaScript**
+- 🌱 I’m currently learning: **Python, SQL, PHP, JavaScript**
 
 - 📫 How to reach me: **medart87@gmail.com**
 
