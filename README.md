@@ -1,4 +1,4 @@
-<img align="center" alt="dev_img" width="800" src="https://github.com/MedartN7/MedartN7/blob/main/SD%26P.png">
+<img align="center" alt="dev_img" width="900" src="https://github.com/MedartN7/MedartN7/blob/main/SD%26P.png">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/medartn7/count.svg" />
