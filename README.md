@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on: **Portal intermediary in courier services.**
 
-- 🌱 I’m currently learning: **Python, SQL, PHP, JavaScript**
+- 🌱 I’m currently learning: **Python(Django), PostgreSQL, JavaScript**
 
 - 📫 How to reach me: **medart87@gmail.com**
 
-- ⚡ Fun fact:  **It's NEVER too late to find your true passion, trust me on that one!**
+- ⚡ Fun fact:  **It's NEVER too late to find your true passion and calling, trust me on that one!**
 </div>
 
 <h3 align="left">Connect with me:</h3>
