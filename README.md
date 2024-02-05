@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on: **Portal intermediary in courier services.**
 
-- 🌱 I’m currently learning: **Python(Django), PostgreSQL, JavaScript**
+- 🌱 I’m currently learning: **PHP(Laravel), Python(Django), PostgreSQL, JavaScript**
 
 - 📫 How to reach me: **medart87@gmail.com**
 
