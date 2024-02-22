@@ -17,13 +17,14 @@
 
 - ⚡ Fun fact:  **It's NEVER too late to find your true passion and calling, trust me on that one!**
   
-- "You’re gonna lose sleep.
-  You’ll doubt whether it’ll work.
-  You’ll stress to make ends meet.
-  You won’t finish your to do list.
-  You’ll wonder if you made the right call - and have no way to know for years.
-  This is what HARD feels like.
-  And that’s okay."
+- My favorite quote:</p>
+  **"You’re gonna lose sleep.**</p>
+  **You’ll doubt whether it’ll work.**</p>
+  **You’ll stress to make ends meet.**</p>
+  **You won’t finish your to do list.**</p>
+  **You’ll wonder if you made the right call - and have no way to know for years.**</p>
+  **This is what HARD feels like.**</p>
+  **And that’s okay."**:thumbsup:</p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
