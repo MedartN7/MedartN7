@@ -16,6 +16,14 @@
 - 📫 How to reach me: **medart87@gmail.com**
 
 - ⚡ Fun fact:  **It's NEVER too late to find your true passion and calling, trust me on that one!**
+  
+- "You’re gonna lose sleep.
+  You’ll doubt whether it’ll work.
+  You’ll stress to make ends meet.
+  You won’t finish your to do list.
+  You’ll wonder if you made the right call - and have no way to know for years.
+  This is what HARD feels like.
+  And that’s okay."
 </div>
 
 <h3 align="left">Connect with me:</h3>
