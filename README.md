@@ -42,4 +42,3 @@
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="60" height="60"></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> </p>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@3636efd9-5a12-4de9-8dd6-a60abb738e15/ec29d887-740b-46a4-b5fa-292f28548423.png" width="550" height="400" /></a>
